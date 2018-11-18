@@ -8,6 +8,8 @@ L(V,P) = (1/N) &sum;<sub>i</sub> ( |V(x_i)-P(x_i)|<sup>2</sup> + &lambda; |dV/dx
 
 &delta; &gt; 0 and &lambda; &gt; 0, and they are gvien constats.
 
+![Potentail](potential.png)
+
 ## Enviroment
 * Python 3.7
 * PyTorch 1.0.0.dev20181107
