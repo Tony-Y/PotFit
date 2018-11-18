@@ -4,7 +4,7 @@ A PyTorch Example of Potential Fitting
 ## Problem
 Provide there exists a potential V(x). Given some observations \{ V(x<sub>i</sub>), dV/dx(x<sub>i</sub>) \}<sub>i=1,...,N</sub>, obtain the approximate potential P(x) which satisfies L(V,P) &lt; &delta;, where
 
-L(V,P) = (1/N) &sum;<sub>i</sub> ( |V(x_i)-P(x_i)|<sup>2</sup> + &lambda; |dV/dx(x_i)-dP/dx(x_i)|<sup>2</sup> ).
+L(V,P) = (1/N) &sum;<sub>i</sub> ( |V(x<sub>i</sub>)-P(x<sub>i</sub>)|<sup>2</sup> + &lambda; |dV/dx(x<sub>i</sub>)-dP/dx(x<sub>i</sub>)|<sup>2</sup> ).
 
 &delta; &gt; 0 and &lambda; &gt; 0, and they are gvien constats.
 
