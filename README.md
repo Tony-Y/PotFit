@@ -36,6 +36,9 @@ python plot_predictions.py best
 
 ![Predicted Potentail](PredictedPotential.png)
 
+## References
+* Shiyu Liang and R. Srikant, "Why Deep Neural Networks for Function Approximation?", ICLR 2017  https://arxiv.org/abs/1610.04161
+
 ## License
 
 [Apache License 2.0](LICENSE)
