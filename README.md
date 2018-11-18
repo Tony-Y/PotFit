@@ -37,7 +37,8 @@ python plot_predictions.py best
 ![Predicted Potentail](PredictedPotential.png)
 
 ## References
-* Shiyu Liang and R. Srikant, "Why Deep Neural Networks for Function Approximation?", ICLR 2017  https://arxiv.org/abs/1610.04161
+* Shiyu Liang and R. Srikant, "Why Deep Neural Networks for Function Approximation?", ICLR 2017 [link](https://arxiv.org/abs/1610.04161)
+* Vinod Nair and Geoffrey E. Hinton, "Rectified Linear Units Improve Restricted Boltzmann Machines", ICML 2010 [link](http://www.cs.toronto.edu/%7Ehinton/absps/reluICML.pdf)
 
 ## License
 
