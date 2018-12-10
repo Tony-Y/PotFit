@@ -6,7 +6,7 @@ Provide there exists a potential V(x). Given some observations \{ V(x<sub>i</sub
 
 L(V,P) = (1/N) &sum;<sub>i</sub> ( |V(x<sub>i</sub>)-P(x<sub>i</sub>)|<sup>2</sup> + &lambda; |dV/dx(x<sub>i</sub>)-dP/dx(x<sub>i</sub>)|<sup>2</sup> ).
 
-&delta; &gt; 0 and &lambda; &gt; 0, and they are gvien constants.
+&delta; &gt; 0 and &lambda; &gt; 0, and they are given constants.
 
 ![Potentail](potential.png)
 
